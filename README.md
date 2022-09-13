@@ -1,0 +1,2 @@
+# WireWorld
+Wireworld cellular automaton
